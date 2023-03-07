@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Dharmanshu Singh<br>- 👀 I’m interested web and mobile application development <br>- 🌱 I’m currently learning flutter and react JS<br>- 💞️ I’m looking to collaborate on fullstack and Machine learning projects <br>- 📫 How to reach me ,you can email me on dharmanshus1012@gmail.com or message me on my [instagram  id](://www.instagram.com/dharmanshu1921/) or on my [linkedin profile](https://www.linkedin.com/in/dharmanshu-singh-0309441a0/)<br>
+- 👋 Hi, I’m Dharmanshu Singh<br>- 👀 I’m interested web and mobile application development <br>- 🌱 I’m currently learning flutter and react JS<br>- 💞️ I’m looking to collaborate on fullstack and Machine learning projects <br>- 📫 How to reach me ,you can email me on dharmanshus1012@gmail.com or message me on my [Instagram  ID](https://www.instagram.com/dharmanshu1921/) or on my [Linkedin Profile](https://www.linkedin.com/in/dharmanshu-singh-0309441a0/)<br>
 
 
 ## 🌐 Socials:
